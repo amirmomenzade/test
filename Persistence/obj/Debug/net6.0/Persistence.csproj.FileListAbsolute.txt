@@ -1,0 +1,15 @@
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Asp.netcore+react+facebook\MyWork\test\Project1\Persistence\obj\Debug\net6.0\ref\Persistence.dll
