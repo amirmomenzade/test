@@ -69,6 +69,21 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\src\App.test.js" />
+    <None Remove="ClientApp\src\AppRoutes.js" />
+    <None Remove="ClientApp\src\reportWebVitals.js" />
+    <None Remove="ClientApp\src\service-worker.js" />
+    <None Remove="ClientApp\src\serviceWorkerRegistration.js" />
+    <None Remove="ClientApp\src\setupProxy.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
     <ProjectReference Include="..\Persistence\Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\src\components\" />
+    <Folder Include="ClientApp\src\feachers\" />
   </ItemGroup>
 </Project>
